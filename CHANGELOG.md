@@ -5,6 +5,8 @@ and the project uses [semantic versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [1.0.2] - 2026-11-21
+
 ### Changed
 
 - README, package metadata and documentation link to [transynq.io](https://transynq.io/) and the [Transynq TMS](https://transynq.io/transport-management-system) page, with a clearer description, keywords and an About Transynq section.
@@ -30,6 +32,7 @@ and the project uses [semantic versioning](https://semver.org/).
 - Requires Node.js 20 or later.
 - Transynq branding for README, docs and package metadata.
 
-[Unreleased]: https://github.com/transynq-io/transynq-sdk-node/compare/v1.0.1...HEAD
+[Unreleased]: https://github.com/transynq-io/transynq-sdk-node/compare/v1.0.2...HEAD
+[1.0.2]: https://github.com/transynq-io/transynq-sdk-node/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/transynq-io/transynq-sdk-node/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/transynq-io/transynq-sdk-node/releases/tag/v1.0.0

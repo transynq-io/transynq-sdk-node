@@ -4,7 +4,7 @@ import { parseJson } from './json.js';
 import { ApiResponse, FileDownload, ResponseBody, type RequestOptions } from './types.js';
 
 /** The SDK version (semantic, independent of the API version). */
-export const SDK_VERSION = '1.0.1';
+export const SDK_VERSION = '1.0.2';
 export const API_KEY_HEADER = 'X-Transynq-APIKey';
 export const CSRF_HEADER = 'X-CSRF-Token';
 export const CORRELATION_HEADER = 'X-Correlation-Id';

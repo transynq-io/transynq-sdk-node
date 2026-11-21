@@ -1,6 +1,6 @@
 {
   "name": "@transynq/sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Official Node.js / TypeScript SDK for Transynq TMS, the transport management system for carriers, fleet operators, 3PLs, brokers and shippers: bookings, dispatch, live tracking, driver POD, invoicing and costing through the Transynq API.",
   "license": "MIT",
   "author": {
