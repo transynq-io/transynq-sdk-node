@@ -1,5 +1,7 @@
 # Node.js / TypeScript SDK documentation
 
+Guides for the official Node.js / TypeScript SDK for [Transynq TMS](https://transynq.io/transport-management-system), the transport management system from [Transynq](https://transynq.io/).
+
 - [Getting started](getting-started.md)
 - [Authentication](authentication.md)
 - [Configuration](configuration.md)

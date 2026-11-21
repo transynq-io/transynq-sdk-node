@@ -1,18 +1,26 @@
 {
   "$schema": "https://typedoc.org/schema.json",
-  "entryPoints": ["src/index.ts"],
+  "entryPoints": [
+    "src/index.ts"
+  ],
   "out": "docs/api",
   "name": "Transynq Node.js SDK",
   "readme": "README.md",
   "favicon": "assets/brand/favicon.ico",
   "customCss": "docs-theme/typedoc.css",
-  "customFooterHtml": "&copy; 2026 Transynq &middot; MIT licence &middot; <em>Intelligent Transport Operations</em>",
+  "customFooterHtml": "&copy; 2026 <a href=\"https://transynq.io/\">Transynq</a> &middot; <a href=\"https://transynq.io/transport-management-system\">Transynq TMS - transport management system</a> &middot; MIT licence",
   "navigationLinks": {
+    "Transynq TMS": "https://transynq.io/transport-management-system",
+    "transynq.io": "https://transynq.io/",
     "GitHub": "https://github.com/transynq-io/transynq-sdk-node",
     "Guides": "https://github.com/transynq-io/transynq-sdk-node/tree/main/docs"
   },
   "excludeInternal": true,
   "excludePrivate": true,
   "treatWarningsAsErrors": false,
-  "validation": { "notExported": false, "invalidLink": true, "notDocumented": false }
+  "validation": {
+    "notExported": false,
+    "invalidLink": true,
+    "notDocumented": false
+  }
 }

@@ -1,23 +1,40 @@
 {
   "name": "@transynq/sdk",
   "version": "1.0.1",
-  "description": "Official Node.js / TypeScript client for the Transynq TMS API",
+  "description": "Official Node.js / TypeScript SDK for Transynq TMS, the transport management system for carriers, fleet operators, 3PLs, brokers and shippers: bookings, dispatch, live tracking, driver POD, invoicing and costing through the Transynq API.",
   "license": "MIT",
-  "author": "Transynq",
+  "author": {
+    "name": "Transynq",
+    "email": "contact@transynq.io",
+    "url": "https://transynq.io/"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/transynq-io/transynq-sdk-node.git"
   },
-  "homepage": "https://github.com/transynq-io/transynq-sdk-node",
+  "homepage": "https://transynq.io/transport-management-system",
   "bugs": {
     "url": "https://github.com/transynq-io/transynq-sdk-node/issues"
   },
   "keywords": [
     "transynq",
     "tms",
+    "transport-management-system",
+    "transport-management-software",
     "transport",
     "logistics",
-    "sdk"
+    "freight",
+    "trucking",
+    "fleet-management",
+    "dispatch",
+    "3pl",
+    "proof-of-delivery",
+    "shipment-tracking",
+    "api-client",
+    "sdk",
+    "nodejs",
+    "typescript",
+    "javascript"
   ],
   "type": "module",
   "engines": {
